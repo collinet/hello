@@ -5,4 +5,6 @@
 <h1> This is a good exercise to practice tomcat deployment</h1>
 <h1> Collinet is getting better with Jenkins and Tomcat</h1
 <h1> Collinet is pushing scripts of github for tomcat to pull</h1
-<h1> Jenkins automation for continuous CICD pipleine is very good</h1>
+<h2> Jenkins automation for continuous CICD pipleine is very good</h2>
+<h2> Made some major changes in git and want to check to see if Jenkins will build automatically</h2>
+
